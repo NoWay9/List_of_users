@@ -1,0 +1,10 @@
+span{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+section{
+    position: absolute;
+    top:10px;
+    left: 700px;
+}
